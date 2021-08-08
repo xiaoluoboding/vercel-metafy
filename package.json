@@ -10,10 +10,17 @@
 	"dependencies": {
 		"got": "^11.8.2",
 		"metascraper": "^5.24.0",
+		"metascraper-audio": "^5.24.0",
+		"metascraper-author": "^5.24.0",
+		"metascraper-clearbit": "^5.24.0",
+		"metascraper-date": "^5.24.0",
 		"metascraper-description": "^5.24.0",
 		"metascraper-image": "^5.24.0",
 		"metascraper-logo": "^5.24.0",
-		"metascraper-title": "^5.24.0"
+		"metascraper-logo-favicon": "^5.24.0",
+		"metascraper-media-provider": "^5.24.0",
+		"metascraper-title": "^5.24.0",
+		"metascraper-video": "^5.24.0"
 	},
 	"devDependencies": {
 		"@vercel/node": "^1.12.0",

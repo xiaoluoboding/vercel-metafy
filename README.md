@@ -1,3 +1,3 @@
 # Metafy
 
-Easily scrape data from websites metadata as a service.
+Easily scrape metadata from websites as a service.
