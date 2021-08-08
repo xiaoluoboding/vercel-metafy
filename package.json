@@ -1,0 +1,11 @@
+{
+	"name": "meta-card",
+	"version": "0.0.1",
+	"repository": "git@github.com:xiaoluoboding/meta-card.git",
+	"author": "xiaoluoboding <xiaoluoboding@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@vercel/node": "^1.12.0",
+		"typescript": "^4.3.5"
+	}
+}
