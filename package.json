@@ -3,9 +3,21 @@
 	"version": "0.0.1",
 	"repository": "git@github.com:xiaoluoboding/metafy.git",
 	"author": "xiaoluoboding <xiaoluoboding@gmail.com>",
+	"scripts": {
+		"dev": "esno api/index.ts"
+	},
 	"license": "MIT",
+	"dependencies": {
+		"got": "^11.8.2",
+		"metascraper": "^5.24.0",
+		"metascraper-description": "^5.24.0",
+		"metascraper-image": "^5.24.0",
+		"metascraper-logo": "^5.24.0",
+		"metascraper-title": "^5.24.0"
+	},
 	"devDependencies": {
 		"@vercel/node": "^1.12.0",
+		"esno": "^0.8.0",
 		"typescript": "^4.3.5"
 	}
 }
