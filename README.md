@@ -1,3 +1,3 @@
-# Meta Card
+# Metafy
 
-Web site metadata as a service
+Easily scrape data from websites metadata as a service.

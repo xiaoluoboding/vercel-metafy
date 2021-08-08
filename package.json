@@ -1,7 +1,7 @@
 {
-	"name": "meta-card",
+	"name": "metafy",
 	"version": "0.0.1",
-	"repository": "git@github.com:xiaoluoboding/meta-card.git",
+	"repository": "git@github.com:xiaoluoboding/metafy.git",
 	"author": "xiaoluoboding <xiaoluoboding@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
