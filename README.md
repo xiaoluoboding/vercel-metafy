@@ -40,7 +40,7 @@ Deploy your `Metafy` on your own instance with one-click.
 
 ## Tech Stack
 
-- [vercel](https://vercel.com/) - Develop. Preview. Ship. For the best frontend teams – Vercel
+- [vercel](https://vercel.com/) - Develop. Preview. Ship. For the best frontend teams.
 - [metascraper](https://metascraper.js.org/) - metascraper, easily scrape metadata from an article on the web.
 - [typescript](https://www.typescriptlang.org/) - Typed JavaScript at Any Scale.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
