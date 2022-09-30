@@ -29,7 +29,8 @@ curl https://metafy.vercel.app/api?url=https://github.com/one-tab-group/vercel-m
   "image": "https://opengraph.githubassets.com/573d8cfe6211260f1a511e86cd042858b6aadb1a7a20b9e07fff9b779f54654b/one-tab-group/vercel-metafy",
   "logo": "https://github.com/fluidicon.png",
   "publisher": "GitHub",
-  "title": "GitHub - one-tab-group/vercel-metafy: Easily scrape metadata from websites as a service.",
+  "title": "GitHub - one-tab-group/vercel-metafy: Easily scrape metadata from websites as a service."
+}
 ```
 
 ## Deploy your own instance
