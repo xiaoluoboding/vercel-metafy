@@ -17,7 +17,7 @@ curl https://metafy.vercel.app/api?url=$URL
 ### Input
 
 ```bash
-curl https://metafy.vercel.app/api?url=https://github.com/one-tab-group/vercel-metafy
+curl https://metafy.vercel.app/api?url=https://github.com/xiaoluoboding/vercel-metafy
 ```
 
 ### Output
@@ -25,11 +25,11 @@ curl https://metafy.vercel.app/api?url=https://github.com/one-tab-group/vercel-m
 ```json
 {
   "author": "one-tab-group",
-  "description": "Easily scrape metadata from websites as a service. - GitHub - one-tab-group/vercel-metafy: Easily scrape metadata from websites as a service.",
-  "image": "https://opengraph.githubassets.com/573d8cfe6211260f1a511e86cd042858b6aadb1a7a20b9e07fff9b779f54654b/one-tab-group/vercel-metafy",
+  "description": "Easily scrape metadata from websites as a service. - GitHub - xiaoluoboding/vercel-metafy: Easily scrape metadata from websites as a service.",
+  "image": "https://opengraph.githubassets.com/573d8cfe6211260f1a511e86cd042858b6aadb1a7a20b9e07fff9b779f54654b/xiaoluoboding/vercel-metafy",
   "logo": "https://github.com/fluidicon.png",
   "publisher": "GitHub",
-  "title": "GitHub - one-tab-group/vercel-metafy: Easily scrape metadata from websites as a service."
+  "title": "GitHub - xiaoluoboding/vercel-metafy: Easily scrape metadata from websites as a service."
 }
 ```
 
@@ -37,7 +37,7 @@ curl https://metafy.vercel.app/api?url=https://github.com/one-tab-group/vercel-m
 
 Deploy your `Metafy` on your own instance with one-click.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fone-tab-group%2Fvercel-metafy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxiaoluoboding%2Fvercel-metafy)
 
 ## Tech Stack
 
